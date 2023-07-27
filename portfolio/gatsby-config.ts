@@ -17,7 +17,7 @@ const config: GatsbyConfig = {
     siteLanguage: `en`,
     author: `@lekoarts_de`,
   },
-  pathPrefix: "/React-App",
+  pathPrefix: "/React-App/portfolio",
   trailingSlash: `never`,
   plugins: [
     {
